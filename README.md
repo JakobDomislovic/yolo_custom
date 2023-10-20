@@ -9,7 +9,7 @@ All about preparing the YOLOv8 dataset and what it should look like can be found
 
 ## Custom configuration
 
-There is a defualt configuration (defualt.yaml) in this repository that you should use as an example. Each argument in default.yaml is described [here] (https://docs.ultralytics.com/usage/cfg/).
+There is a defualt configuration (defualt.yaml) in this repository that you should use as an example. Each argument in default.yaml is described [here](https://docs.ultralytics.com/usage/cfg/).
 
 I suggest that you create a custom configuration file that suits your needs.
 
