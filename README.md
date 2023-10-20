@@ -1,6 +1,10 @@
 # YOLOv8 with custom dataset and configuration
 
-YOLOv8 is a deep learning model developed by Ultralytics. More about YOLOv8 and Ultralytics can be found [here](https://github.com/ultralytics/ultralytics).
+YOLOv8 is a deep learning model developed by Ultralytics. More about YOLOv8 and Ultralytics can be found [here](https://github.com/ultralytics/ultralytics). YOLOv8 can be installed with:
+
+```bash
+pip install ultralytics
+```
 
 ## Dataset
 All about preparing the YOLOv8 dataset and what it should look like can be found [here](https://docs.ultralytics.com/datasets/detect/).
