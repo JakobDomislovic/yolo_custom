@@ -1,0 +1,11 @@
+path: ../dataset/example # dataset root dir
+
+train: images/train  # relative to 'path'
+val: images/val
+test: images/test
+
+names:
+  0: name_1
+  1: name_2
+  3: name_3
+
